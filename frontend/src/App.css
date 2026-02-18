@@ -1,0 +1,30 @@
+.table th,
+.table td {
+  padding: 0.9rem 1.1rem !important;
+}
+
+.table th,
+.table td {
+  vertical-align: middle;
+}
+
+.badge-modern {
+  padding: 0.45em 0.75em;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+  border-radius: 50px; /* pill shape */
+  text-transform: uppercase;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.95;
+}
+
+.sticky-header {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+}

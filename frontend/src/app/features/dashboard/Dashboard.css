@@ -1,0 +1,6 @@
+.dashboard-bg {
+  background-image: url('../../../assets/ins.jpg'); 
+  background-size: cover;
+  background-position: center;
+  height: 100vh; 
+}
